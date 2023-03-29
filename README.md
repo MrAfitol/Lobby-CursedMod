@@ -4,6 +4,8 @@
 
 
 A plugin that adds a lobby when waiting for players
+
+The idea is taken from the [plugin](https://github.com/Michal78900/WaitAndChillReborn)
 ## How download ?
    - *1. Find the SCP SL server config folder*
    
